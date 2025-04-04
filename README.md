@@ -49,6 +49,8 @@ These are the tools I use to create mindful, engaging digital stories:
   ## 🔗 Link to GitHub repository:
   [GitHub - yt-downloader](https://github.com/ravzabakay/yt-downloader)
   Simple script to download videos using `yt-dlp` and `ffmpeg`.
+  ## 📺 YouTube Video
+  You can find the YouTube video for this project [here](https://www.youtube.com/watch?v=DAOQFqVYY24).
   
 - # [Background Remover](https://github.com/ravzabakay/bg-remover)  
   Python + rembg tool for removing backgrounds from images.
