@@ -52,8 +52,10 @@ These are the tools I use to create mindful, engaging digital stories:
   ## 📺 YouTube Video
   You can find the YouTube video for this project [here](https://www.youtube.com/watch?v=DAOQFqVYY24).
   
-- # [Background Remover](https://github.com/ravzabakay/bg-remover)  
-  Python + rembg tool for removing backgrounds from images.
+- # background-removal
+  This project contains a Python script for removing backgrounds from images.
+  ## 🔗 GitHub Repository:
+  [Background Removal - GitHub](https://github.com/ravzabakay/background-removal)
 
 - # Yoga Content Tools (Coming soon...)  
   Automating visual workflows for yoga creators!
