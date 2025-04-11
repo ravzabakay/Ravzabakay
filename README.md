@@ -42,26 +42,6 @@ These are the tools I use to create mindful, engaging digital stories:
 
 ---
 
-### 🧩 My Python Projects
-
-- # yt-downloader
-  This is a Python script for downloading YouTube videos.
-  ## 🔗 Link to GitHub repository:
-  [GitHub - yt-downloader](https://github.com/ravzabakay/yt-downloader)
-  Simple script to download videos using `yt-dlp` and `ffmpeg`.
-  ## 📺 YouTube Video
-  You can find the YouTube video for this project [here](https://www.youtube.com/watch?v=DAOQFqVYY24).
-  
-- # background-removal
-  This project contains a Python script for removing backgrounds from images.
-  ## 🔗 GitHub Repository:
-  [Background Removal - GitHub](https://github.com/ravzabakay/background-removal)
-
-- # Yoga Content Tools (Coming soon...)  
-  Automating visual workflows for yoga creators!
-
----
-
 ### 💡 Next Goals:
 - Build my first web app
 - Create a yoga pose classifier using AI
